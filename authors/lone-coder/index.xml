@@ -2,32 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lone Coder on HydraEarth</title>
-    <link>http://www.example.com/authors/lone-coder/</link>
+    <link>https://pei-hydraearth.github.io/authors/lone-coder/</link>
     <description>Recent content in Lone Coder on HydraEarth</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/authors/lone-coder/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pei-hydraearth.github.io/authors/lone-coder/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rich Content</title>
-      <link>http://www.example.com/posts/rich-content/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>External Page: Hugo Coder Wiki</title>
-      <link>http://www.example.com/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/hugo-coder-wiki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://www.example.com/posts/placeholder-text/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <title>Temporal Evolution of Gender Pay Gaps - 1.4</title>
+      <link>https://pei-hydraearth.github.io/posts/1_4_temporal-evolution-of-gender-pay-gaps/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pei-hydraearth.github.io/posts/1_4_temporal-evolution-of-gender-pay-gaps/</guid>
+      <description>&lt;p&gt;This section examines the evolution of gender pay gaps over multiple years across selected U.S. states. By analyzing longitudinal trends, we aim to determine whether disparities have narrowed or widened, and to what extent state-level policies or labor market dynamics may have influenced these patterns.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shrinking Gaps&#xA;In California (CA) and New York (NY), gender pay gaps were relatively high in 2018. However, both states demonstrated a marked reduction by 2023. This suggests that recent policy interventions promoting pay equity, combined with labor market shifts in urban centers, have begun to yield measurable improvements in wage fairness.&lt;/li&gt;&#xA;&lt;li&gt;Volatile Trends&#xA;Texas (TX) and Florida (FL) displayed less consistent progress. Their pay gap trajectories followed a “decline-then-rebound” pattern: an initial reduction in disparities was observed, but later years saw the gap widen again. Such fluctuations may reflect uneven implementation of workplace equity initiatives, industry-specific shocks, or variations in labor force participation.&lt;/li&gt;&#xA;&lt;li&gt;Steady Convergence&#xA;Washington (WA) exhibited a relatively stable and consistent narrowing of the pay gap over the observed period. The gradual convergence toward the national average indicates steady improvement, with fewer reversals compared to more volatile states.&#xA;Overall, the time-series analysis reveals three archetypal patterns: (1) states with sustained improvement (CA, NY), (2) states with unstable or cyclical changes (TX, FL), and (3) states with gradual but steady convergence (WA). These findings highlight the importance of local labor market structures and policy frameworks in shaping long-term pay equity outcomes.&lt;/li&gt;&#xA;&lt;li&gt;Energy technology mix&#xA;States exhibit pronounced heterogeneity in technology composition. Fossil-heavy states retain sizable Natural Gas and Coal job footprints, while coastal and high-renewables states show elevated Solar and Wind activity. These structural differences help explain geographic variation in labor demand, skill requirements, and subsequent pay-gap dynamics.&lt;/li&gt;&#xA;&lt;li&gt;Hiring difficulty&#xA;States with rapid renewable buildout or transmission upgrades often report higher Very/Somewhat difficult hiring shares, especially in installation, linework, and specialized electrical roles. This suggests targeted apprenticeship and credential-bridging programs could relieve bottlenecks while improving equity outcomes.&#xA;The state-by-technology and state-by-industry matrices provide a structural lens for the pay-gap results: (i) where the occupational mix skews toward high-credential, high-wage roles with low female/BIPOC representation, gaps tend to widen; (ii) diversified states see flatter disparities overall, though Management/Professional roles can still harbor significant gaps. These patterns motivate state-specific workforce strategies rather than a one-size-fits-all approach.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- tags = [&#xA;    &#34;hugo&#34;,&#xA;    &#34;markdown&#34;,&#xA;    &#34;css&#34;,&#xA;    &#34;html&#34;,&#xA;    &#34;shortcodes&#34;,&#xA;]&#xA;categories = [&#xA;    &#34;theme demo&#34;,&#xA;    &#34;syntax&#34;,&#xA;] --&gt;&#xA;&lt;!-- Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds. --&gt;</description>
     </item>
   </channel>
 </rss>

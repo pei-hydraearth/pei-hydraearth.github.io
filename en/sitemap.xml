@@ -2,290 +2,208 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://pei-hydraearth.github.io/about/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://pei-hydraearth.github.io/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://pei-hydraearth.github.io/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://pei-hydraearth.github.io/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://pei-hydraearth.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://pei-hydraearth.github.io/"
                 />
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://pei-hydraearth.github.io/authors/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://pei-hydraearth.github.io/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://pei-hydraearth.github.io/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/1_1_demographic/</loc>
+    <loc>https://pei-hydraearth.github.io/posts/1_1_demographic/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/1_1_demographic/"
+                href="https://pei-hydraearth.github.io/pt-br/posts/1_1_demographic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/1_1_demographic/"
+                href="https://pei-hydraearth.github.io/posts/1_1_demographic/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/1_2_clean_energy_workforce/</loc>
+    <loc>https://pei-hydraearth.github.io/posts/1_2_clean_energy_workforce/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/operations/</loc>
+    <loc>https://pei-hydraearth.github.io/authors/lone-coder/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-  </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://pei-hydraearth.github.io/tags/markdown/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://pei-hydraearth.github.io/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://pei-hydraearth.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/theme-demo/</loc>
+    <loc>https://pei-hydraearth.github.io/authors/operations/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://pei-hydraearth.github.io/posts/1_3_pay-gap-analysis-within-sustainability-and-climate-related-fields/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://pei-hydraearth.github.io/pt-br/posts/1_3_pay-gap-analysis-within-sustainability-and-climate-related-fields/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://pei-hydraearth.github.io/posts/1_3_pay-gap-analysis-within-sustainability-and-climate-related-fields/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/css/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://pei-hydraearth.github.io/posts/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/css/"
+                href="https://pei-hydraearth.github.io/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/css/"
+                href="https://pei-hydraearth.github.io/posts/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/html/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://pei-hydraearth.github.io/series/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/html/"
+                href="https://pei-hydraearth.github.io/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/html/"
+                href="https://pei-hydraearth.github.io/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/hugo/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://pei-hydraearth.github.io/tags/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://pei-hydraearth.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://pei-hydraearth.github.io/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/authors/lone-coder/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/tags/markdown/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://pei-hydraearth.github.io/posts/1_4_temporal-evolution-of-gender-pay-gaps/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/markdown/"
+                href="https://pei-hydraearth.github.io/pt-br/posts/1_4_temporal-evolution-of-gender-pay-gaps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/markdown/"
+                href="https://pei-hydraearth.github.io/posts/1_4_temporal-evolution-of-gender-pay-gaps/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/rich-content/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://pei-hydraearth.github.io/tags/text/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/rich-content/"
+                href="https://pei-hydraearth.github.io/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/rich-content/"
+                href="https://pei-hydraearth.github.io/tags/text/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/shortcodes/"
-                />
+    <loc>https://pei-hydraearth.github.io/series/theme-demo/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/syntax/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/categoria/sintaxe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/categories/syntax/"
-                />
-  </url><url>
-    <loc>http://www.example.com/tags/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/"
-                />
-  </url><url>
-    <loc>http://www.example.com/categories/theme-demo/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/hugo-coder-wiki/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/hugo-coder-wiki/"
-                />
-  </url><url>
-    <loc>http://www.example.com/posts/placeholder-text/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/placeholder-text/"
-                />
-  </url><url>
-    <loc>http://www.example.com/tags/text/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/text/"
-                />
-  </url><url>
-    <loc>http://www.example.com/authors/hugo-authors/</loc>
+    <loc>https://pei-hydraearth.github.io/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/autores/autores-de-hugo/"
+                href="https://pei-hydraearth.github.io/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/hugo-authors/"
+                href="https://pei-hydraearth.github.io/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://pei-hydraearth.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://pei-hydraearth.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://pei-hydraearth.github.io/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://pei-hydraearth.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="https://pei-hydraearth.github.io/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://pei-hydraearth.github.io/contact/"
+                />
+  </url><url>
+    <loc>https://pei-hydraearth.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pei-hydraearth.github.io/pt-br/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pei-hydraearth.github.io/projects/"
                 />
   </url>
 </urlset>
