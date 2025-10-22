@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.example.com/about/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/about/"
+                />
+  </url><url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/"
+                />
+  </url><url>
     <loc>http://www.example.com/authors/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -16,7 +42,7 @@
                 />
   </url><url>
     <loc>http://www.example.com/categories/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -29,7 +55,7 @@
                 />
   </url><url>
     <loc>http://www.example.com/tags/css/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -42,7 +68,7 @@
                 />
   </url><url>
     <loc>http://www.example.com/tags/html/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -55,7 +81,7 @@
                 />
   </url><url>
     <loc>http://www.example.com/tags/hugo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -67,34 +93,11 @@
                 href="http://www.example.com/tags/hugo/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-  </url><url>
     <loc>http://www.example.com/authors/lone-coder/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/lone-coder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/authors/lone-coder/"
-                />
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/tags/markdown/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -106,21 +109,8 @@
                 href="http://www.example.com/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/markdown-syntax/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/markdown-syntax/"
-                />
-  </url><url>
     <loc>http://www.example.com/posts/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -131,51 +121,6 @@
                 hreflang="en"
                 href="http://www.example.com/posts/"
                 />
-  </url><url>
-    <loc>http://www.example.com/series/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/series/"
-                />
-  </url><url>
-    <loc>http://www.example.com/categories/syntax/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/categoria/sintaxe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/categories/syntax/"
-                />
-  </url><url>
-    <loc>http://www.example.com/tags/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/"
-                />
-  </url><url>
-    <loc>http://www.example.com/categories/theme-demo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/series/theme-demo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
@@ -188,6 +133,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.example.com/posts/rich-content/"
+                />
+  </url><url>
+    <loc>http://www.example.com/series/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/series/"
                 />
   </url><url>
     <loc>http://www.example.com/tags/shortcodes/</loc>
@@ -203,31 +161,37 @@
                 href="http://www.example.com/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/more-rich-content/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <loc>http://www.example.com/categories/syntax/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/more-rich-content/"
+                href="http://www.example.com/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/more-rich-content/"
+                href="http://www.example.com/categories/syntax/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/math-typesetting/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <loc>http://www.example.com/tags/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/math-typesetting/"
+                href="http://www.example.com/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/math-typesetting/"
+                href="http://www.example.com/tags/"
                 />
+  </url><url>
+    <loc>http://www.example.com/categories/theme-demo/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/series/theme-demo/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
@@ -240,19 +204,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.example.com/posts/html-and-css-only-tabs/"
-                />
-  </url><url>
-    <loc>http://www.example.com/posts/mermaid-support/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/mermaid-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/mermaid-support/"
                 />
   </url><url>
     <loc>http://www.example.com/tags/emoji/</loc>
@@ -331,19 +282,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.example.com/authors/hugo-authors/"
-                />
-  </url><url>
-    <loc>http://www.example.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/about/"
                 />
   </url><url>
     <loc>http://www.example.com/contact/</loc>
