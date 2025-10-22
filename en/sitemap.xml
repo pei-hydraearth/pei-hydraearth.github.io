@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://www.example.com/authors/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -40,6 +40,51 @@
                 hreflang="en"
                 href="http://www.example.com/authors/"
                 />
+  </url><url>
+    <loc>http://www.example.com/posts/emoji-support/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/posts/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/posts/emoji-support/"
+                />
+  </url><url>
+    <loc>http://www.example.com/authors/operations/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/posts/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/posts/"
+                />
+  </url><url>
+    <loc>http://www.example.com/series/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/series/"
+                />
+  </url><url>
+    <loc>http://www.example.com/series/theme-demo/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/categories/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
@@ -109,19 +154,6 @@
                 href="http://www.example.com/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-  </url><url>
     <loc>http://www.example.com/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -133,19 +165,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.example.com/posts/rich-content/"
-                />
-  </url><url>
-    <loc>http://www.example.com/series/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/series/"
                 />
   </url><url>
     <loc>http://www.example.com/tags/shortcodes/</loc>
@@ -190,9 +209,6 @@
     <loc>http://www.example.com/categories/theme-demo/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/series/theme-demo/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -204,32 +220,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.example.com/posts/html-and-css-only-tabs/"
-                />
-  </url><url>
-    <loc>http://www.example.com/tags/emoji/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/emoji/"
-                />
-  </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
                 />
   </url><url>
     <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
