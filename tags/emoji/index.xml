@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emoji on Congo</title>
-    <link>/tags/emoji/</link>
-    <description>Recent content in Emoji on Congo</description>
+    <title>Emoji on johndoe</title>
+    <link>http://www.example.com/tags/emoji/</link>
+    <description>Recent content in Emoji on johndoe</description>
     <generator>Hugo</generator>
-    <language>en-AU</language>
-    <copyright>&amp;copy; 2024 Congo contributors</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emoji :parachute:</title>
-      <link>/samples/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/samples/emoji/</guid>
-      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      <title>Emoji Support</title>
+      <link>http://www.example.com/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
