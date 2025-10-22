@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.example.com/pt-br/authors/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,64 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://www.example.com/pt-br/authors/"
+                />
+  </url><url>
+    <loc>http://www.example.com/pt-br/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/pt-br/posts/1_1_demographic/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/posts/1_1_demographic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/posts/1_1_demographic/"
+                />
+  </url><url>
+    <loc>http://www.example.com/pt-br/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/"
+                />
+  </url><url>
+    <loc>http://www.example.com/pt-br/authors/opera%C3%A7%C3%B5es/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/pt-br/posts/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/posts/"
+                />
+  </url><url>
+    <loc>http://www.example.com/pt-br/series/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/series/"
                 />
   </url><url>
     <loc>http://www.example.com/pt-br/categories/</loc>
@@ -57,9 +115,6 @@
     <loc>http://www.example.com/pt-br/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/pt-br/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.example.com/pt-br/tags/html/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -86,19 +141,6 @@
                 href="http://www.example.com/pt-br/tags/hugo/"
                 />
   </url><url>
-    <loc>http://www.example.com/pt-br/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
-                />
-  </url><url>
     <loc>http://www.example.com/pt-br/tags/markdown/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -112,34 +154,8 @@
                 href="http://www.example.com/pt-br/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/pt-br/posts/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
-                />
-  </url><url>
     <loc>http://www.example.com/pt-br/authors/programador-solit%C3%A1rio/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/pt-br/series/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
-                />
   </url><url>
     <loc>http://www.example.com/pt-br/categories/sintaxe/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
@@ -157,34 +173,8 @@
                 href="http://www.example.com/pt-br/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/pt-br/posts/html-and-css-only-tabs/</loc>
+    <loc>http://www.example.com/pt-br/posts/1_2_clean_energy_workforce.md/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/html-and-css-only-tabs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/html-and-css-only-tabs/"
-                />
-  </url><url>
-    <loc>http://www.example.com/pt-br/tags/emoji/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/pt-br/posts/emoji-support/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
-                />
   </url><url>
     <loc>http://www.example.com/pt-br/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>

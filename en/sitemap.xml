@@ -41,18 +41,21 @@
                 href="http://www.example.com/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
+    <loc>http://www.example.com/posts/1_1_demographic/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
+                href="http://www.example.com/pt-br/posts/1_1_demographic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
+                href="http://www.example.com/posts/1_1_demographic/"
                 />
+  </url><url>
+    <loc>http://www.example.com/posts/1_2_clean_energy_workforce/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/authors/operations/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
@@ -208,19 +211,6 @@
   </url><url>
     <loc>http://www.example.com/categories/theme-demo/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/html-and-css-only-tabs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/html-and-css-only-tabs/"
-                />
   </url><url>
     <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
